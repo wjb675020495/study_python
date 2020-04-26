@@ -2,6 +2,9 @@ import os
 
 
 def get_all_files():
+    """get a files from a path
+    :return: files list
+    """
     cur_path = os.getcwd()
     paths_dir = os.listdir(cur_path)
     path_list = []
@@ -12,6 +15,10 @@ def get_all_files():
 
 
 def read_file(path):
+    """read file content from a path
+    :param path:
+    :return:file content
+    """
     with open(path, 'r') as all_file:
         print(all_file.read())
         files_content = all_file.read()
