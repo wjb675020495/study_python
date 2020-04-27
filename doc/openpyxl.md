@@ -1,6 +1,6 @@
 # openpyxl模块使用
 
-![image-20200418000744995](C:\Users\lenovo\AppData\Roaming\Typora\typora-user-images\image-20200418000744995.png)
+![image-20200418000744995](../res/openpyxl.png)
 
 #### Excel文件三个对象
 
