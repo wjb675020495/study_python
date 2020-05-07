@@ -1,6 +1,6 @@
 # openpyxl模块使用
 
-![image-20200418000744995](../res/openpyxl.png)
+![image-20200418000744995](../res/picture/openpyxl.png)
 
 #### Excel文件三个对象
 

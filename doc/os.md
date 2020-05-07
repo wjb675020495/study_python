@@ -1,6 +1,6 @@
 # Module os 
 
-![image-20200418000744995](../res/os.PNG)
+![image-20200418000744995](../res/picture/os.PNG)
 ### 系统操作
 
 ```
